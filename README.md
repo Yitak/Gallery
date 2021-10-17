@@ -1,0 +1,2 @@
+# Gallery
+This is an online gallery comprises of beautiful &amp; amazing pictures from Unsplash. I have implemented a special feature, namely, 'infinite scroll', so that one can load more and more images by just scrolling down on your phone. This application also makes use of data fetching with an input of url and attributes that makes the user interface more interactive, which directs you to the image sources by just clicking on them!
